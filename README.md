@@ -12,7 +12,7 @@ Convert telegram sticker or photo to whatsapp sticker
 - `SUPPORT_GROUP` - Support group link
 
 ## Deploy to heroku
-Get the [ENV Variables](#ENV-Variables) and then click the button below!  
+Get the [ENV Variables](#env-variables) and then click the button below!  
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FOhYoonHee%2Fsticker-tele-to-wa&template=https%3A%2F%2Fgithub.com%2FOhYoonHee%2Fsticker-tele-to-wa)
 
