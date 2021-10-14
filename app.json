@@ -1,0 +1,45 @@
+{
+    "name": "Telegram Sticker to Whatsapp",
+    "description": "Convert telegram sticker or photo to whatsapp sticker",
+    "keywords": [
+        "whatsapp",
+        "telegram",
+        "sticker"
+    ],
+    "env": {
+        "BOT_TOKEN": {
+            "description": "Telegram bot token get it from @botfather",
+            "required": true
+        },
+        "TELEGRAM_ID": {
+            "description": "Telegram chat id, where bot can work.",
+            "required": true
+        },
+        "STRING_SESSION": {
+            "description": "Your whatsapp string session, you can get it from https://replit.com/@gumball-waterson/Session-WA-Generator",
+            "required": true
+        },
+        "GROUP_WA": {
+            "description":"WA Chat Id, see README.md to more information. !READ README PLEASE!!!",
+            "value": "123-456@g.us",
+            "required": false
+        },
+        "UPDATE_CHANNEL": {
+            "description": "Update channel link",
+            "value": "https://t.me/TarianaChannel",
+            "required": false
+        },
+        "SUPPORT_GROUP": {
+            "description": "Support group link",
+            "value": "https://t.me/TarianaBicara",
+            "required": false
+        }
+    },
+    "stack": "container",
+    "formation": {
+        "worker": {
+            "quantity": 0,
+            "size": "free"
+        }
+    }
+}
