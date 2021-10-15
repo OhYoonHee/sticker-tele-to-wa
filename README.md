@@ -5,7 +5,7 @@ Convert telegram sticker or photo to whatsapp sticker
 > REQUIRED VARIABLE
 - `BOT_TOKEN` - Telegram bot token get it from [@botfather](https://t.me/botfather)
 - `GROUP_WA` - Telegram chat id, where bot can work
-- `STRING_SESSION` - Your whatsapp string session, you can get it from [here](https://replit.com/@gumball-waterson/Session-WA-Generator)
+- `STRING_SESSION` - More information in [here](./tutorial/session.md)
 - `GROUP_WA` - More information in [here](./tutorial/chat_id.md)
 > OPTIONAL VARIABLE
 - `UPDATE_CHANNEL` - Update channel link
