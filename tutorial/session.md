@@ -1,6 +1,6 @@
 # Tutorial String Session Whatsapp
 
-> You can generate string session whatsapp at [here](https://replit.com/@gumball-waterson/Session-WA-Generator)
+> You can generate string session whatsapp in [replit](https://replit.com/@gumball-waterson/Session-WA-Generator)
 
 ## Generate in local
 > Requirements
@@ -23,6 +23,6 @@ ii) Go to console heroku
 
 iii) run `node dist/create_string_session.js`
 
-iiii) Finish
+iv) Finish
 
 > if you found any error you can report it to [support group](https://t.me/TarianaBicara)
