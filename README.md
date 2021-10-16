@@ -46,6 +46,9 @@ $ yarn build
 # create .env and fill all value to that
 $ yarn start
 ```
+
+> If you use npm, you can delete yarn.lock file.
+
 > if you found any error you can report it to [support group](https://t.me/TarianaBicara)
 
 ## How to use?
