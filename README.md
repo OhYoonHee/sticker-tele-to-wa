@@ -22,6 +22,8 @@ Get the [ENV Variables](#env-variables) and then click the button below!
 [![Deploy on Repl.it](https://replit.com/badge/github/OhYoonHee/sticker-tele-to-wa)](https://repl.it/github/OhYoonHee/sticker-tele-to-wa)
 
 After deploy to replit, fill all env variable to replit variable.
+> WARNING!!
+
 > When a build not found module error appears, please run the command `yarn build`
 
 ## Local deploy
@@ -35,9 +37,9 @@ After deploy to replit, fill all env variable to replit variable.
 ```shell
 $ git clone https://github.com/OhYoonHee/sticker-tele-to-wa.git
 $ cd sticker-tele-to-wa
-$ npm install && npm install canvas@2.6.1
+$ npm install
 # or
-$ yarn install && yarn add canvas@2.6.1
+$ yarn install
 $ npm run build
 # or
 $ yarn build
@@ -50,7 +52,6 @@ $ yarn start
 - Send sticker or photo to telegram bot
 - Wait until bot convert telegram sticker to whatsapp sticker
 - Its all step :v
-
 
 ## License
 MIT License
