@@ -1,0 +1,3 @@
+language = "nodejs"
+run = "yarn replit"
+onBoot = "yarn build"

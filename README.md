@@ -11,10 +11,17 @@ Convert telegram sticker or photo to whatsapp sticker
 - `UPDATE_CHANNEL` - Update channel link
 - `SUPPORT_GROUP` - Support group link
 
-## Deploy to heroku
+## Deploy to [heroku](https://heroku.com/)
 Get the [ENV Variables](#env-variables) and then click the button below!  
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FOhYoonHee%2Fsticker-tele-to-wa&template=https%3A%2F%2Fgithub.com%2FOhYoonHee%2Fsticker-tele-to-wa)
+
+## Deploy to [replit](https://replit.com/)
+Get the [ENV Variables](#env-variables) and then click the button below!
+[![Deploy on Repl.it](https://replit.com/badge/github/OhYoonHee/sticker-tele-to-wa)](https://repl.it/github/OhYoonHee/sticker-tele-to-wa)
+
+After deploy to replit, fill all env variable to replit variable.
+> When a build not found module error appears, please run the command `yarn build`
 
 ## Local deploy
 > Requirements
@@ -36,6 +43,7 @@ $ yarn build
 # create .env and fill all value to that
 $ yarn start
 ```
+> if you found any error you can report it to [support group](https://t.me/TarianaBicara)
 
 ## How to use?
 - Send sticker or photo to telegram bot
